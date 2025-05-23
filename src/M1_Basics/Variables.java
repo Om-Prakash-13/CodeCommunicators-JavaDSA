@@ -1,4 +1,4 @@
-package Basics;
+package M1_Basics;
 public class Variables {
     public static void main(String[] args) {
         int x;

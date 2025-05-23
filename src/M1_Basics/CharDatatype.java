@@ -1,6 +1,4 @@
-package Basics;
-
-import java.util.Scanner;
+package M1_Basics;
 
 public class CharDatatype {
     public static void main(String[] args) {

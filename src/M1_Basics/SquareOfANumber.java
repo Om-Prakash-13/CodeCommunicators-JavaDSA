@@ -1,4 +1,4 @@
-package Basics;
+package M1_Basics;
 import java.util.Scanner;
 
 public class SquareOfANumber {

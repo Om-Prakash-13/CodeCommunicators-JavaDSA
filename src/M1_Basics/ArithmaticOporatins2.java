@@ -1,4 +1,4 @@
-package Basics;
+package M1_Basics;
 
 public class ArithmaticOporatins2 {
     public static void main(String[] args) {
